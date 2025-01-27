@@ -1,0 +1,23 @@
+h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h2{
+    color: blueviolet;
+}
+a{
+    text-decoration: none;
+}
+#head3{
+    color: cadetblue;
+}
+#head4{
+    color: aquamarine;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#head2{
+    color: chocolate;
+    background-color: antiquewhite;
+}
+.grid{
+    background-color: brown;
+}
